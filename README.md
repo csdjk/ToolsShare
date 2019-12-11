@@ -8,17 +8,17 @@
 # 软件篇：
 
 
-### 1.Q-Dir :  文件管理，多个窗口叠加。
+## 1.Q-Dir :  文件管理，多个窗口叠加。
 [下载链接](https://q-dir.en.softonic.com/)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191122125337820.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
-### 2.Clover :  文件管理。
+## 2.Clover :  文件管理。
 和**Q-Dir** 类似，都是管理文件夹的。不同的是 **Clover**可以在同一个窗口打开多个文件夹.，看个人喜欢选择。
 
 [下载链接](https://clover.en.softonic.com/)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191122125951496.png)
 
-### <font color="red">3.Listary:  文件搜索。
+## <font color="red">3.Listary:  文件搜索。
 Listary是一个革命性的搜索工具。
 有了Listary，你就再也不必经历浏览文件夹、查找正确文件名和在有限的菜单中搜索的繁琐过程了。
 
@@ -28,7 +28,7 @@ Listary是一个革命性的搜索工具。
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191122131018973.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
 
-### <font color="red">4.Everything:  文件搜索。
+## <font color="red">4.Everything:  文件搜索。
 **Everything** 和 **Listary**类似，是一个搜索工具。
 是一款独立的搜索软件存在，功能上非常强大。而Listary定位则是一个辅助型的检索工具，检索性能上两者区别不大。
 
@@ -39,13 +39,13 @@ Listary是一个革命性的搜索工具。
 [下载链接](https://www.voidtools.com/zh-cn/)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191122131521989.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
 
-### 5.PotPlayer:  看片神器。
+## 5.PotPlayer:  看片神器。
 **PotPlayer** 一款非常优秀的播放器，界面简洁，安装包小，无广告，启动迅速、功耗低、解码能力强大。
 
 [下载链接](http://www.potplayer.org/)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191122132818140.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
 
-### 6.Bandicam:  录屏神器。
+## 6.Bandicam:  录屏神器。
 用 **Bandicam** 可以进行什么？
 - 录制电脑屏幕：电脑桌面、资源管理器、因特网浏览器、谷歌浏览器、火狐浏览器等。
 - 游戏录像：穿越火线、魔兽世界、地下城与勇士、QQ飞车、绝地求生、命召唤OL等。
@@ -59,7 +59,7 @@ Listary是一个革命性的搜索工具。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191122133133720.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
 
 
-### <font color="red">7.Snipaste:  截屏神器。
+## <font color="red">7.Snipaste:  截屏神器。
 
 **Snipaste** 一个简单而强大的截屏神器，还可以将截图固定在屏幕上。
 
@@ -72,19 +72,19 @@ Listary是一个革命性的搜索工具。
 这里就截图一个  **固定在屏幕上的官网截图**：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191122140539635.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
 
-### <font color="red">8.ScreenToGif:  GIF制作工具
+## <font color="red">8.ScreenToGif:  GIF制作工具
 屏幕，摄像头和白板录像机与集成编辑器，可以通过录制不仅可以制作GIF，还可以制作视频等等。
 
 [下载链接](https://www.screentogif.com/?l=zh_cn)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191122141202385.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
 
-### <font color="red">9.ReNamer:  批量重命名工具
+## <font color="red">9.ReNamer:  批量重命名工具
 简洁而功能强大的批量重命名工具。
 
 [下载链接](https://renamer.en.softonic.com/download)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191122141959606.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
-### 10.Image Tuner:  图片批处理工具
+## 10.Image Tuner:  图片批处理工具
 简洁而功能强大的图片批处理工具。
 批量调整大小、添加水印、转换格式等等多种功能。
 
@@ -92,7 +92,7 @@ Listary是一个革命性的搜索工具。
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191122142213125.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
 
-### <font color="red">11.WGestures:  全局鼠标手势
+## <font color="red">11.WGestures:  全局鼠标手势
 一个更简单、更现代的鼠标手势。免费 & 开源。
 停止浪费时间在琐碎操作上！WGestures让用户跳过琐碎细节，专注于重要的事物。
 
@@ -100,7 +100,7 @@ Listary是一个革命性的搜索工具。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191122142456853.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
 
 
-### 12.PandaOCR:  多功能OCR识别+翻译+朗读+弹窗
+## 12.PandaOCR:  多功能OCR识别+翻译+朗读+弹窗
 - 支持识别引擎：搜狗OCR/API+腾讯OCR/API+百度OCR/API+有道OCR/API+京东OCR
 - 支持翻译引擎：搜狗翻译/API+腾讯翻译/API+百度翻译/API+有道翻译/API+谷歌翻译+词霸翻译
 - 支持朗读引擎：搜狗朗读+腾讯朗读+百度朗读+必应朗读+讯飞朗读+谷歌朗读+京东朗读
@@ -117,12 +117,12 @@ Listary是一个革命性的搜索工具。
 ![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdHRhY2guNTJwb2ppZS5jbi9mb3J1bS8yMDE5MDQvMDIvMjEwOTQyZWI5YzA3eDE5Z3NkOXVzdS5wbmc?x-oss-process=image/format,png)
 ![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdHRhY2guNTJwb2ppZS5jbi9mb3J1bS8yMDE5MDYvMjgvMTAxNzQ0czU1NmhkZHN6cTVoODJhOC5wbmc?x-oss-process=image/format,png)
 
-### 13.Cencrack:  在线工具包
+## 13.Cencrack:  在线工具包
 集合了各种非常实用的小工具，体积小，功能全面。可能以上的一些软件也包含在这集合里。
 [下载链接](http://cencrack.com/?post=18)
 ![](https://imgconvert.csdnimg.cn/aHR0cDovL2NlbmNyYWNrLmNvbS9jb250ZW50L3VwbG9hZGZpbGUvMjAxODEyLzVlMzgxNTQzODUzMTU1LmdpZg)
 
-### <font color="red">14.Anki:  记忆神器
+## <font color="red">14.Anki:  记忆神器
 **Anki** 一款记忆神器软件，它使记忆变得更加容易, 它可以一个自定义多功能的记忆方式, 减少学习时间,提升你的学习容量, 提高学习效率。不论你是学生还是正在工作中的，不论任何专业，任何职业，只要你想学习，想更有效率的记忆，这个软件值得你拥有！！！！
 
 Anki 通过算法，它可以在相对合适的时间来告诉你复习什么比较好，充分利用好你的时间。
@@ -134,7 +134,7 @@ Anki 通过算法，它可以在相对合适的时间来告诉你复习什么比
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191201144827595.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)  ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191201144854131.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
 
-### 15.Jpg+FileBinder:  把文件隐藏到图片中
+## 15.Jpg+FileBinder:  把文件隐藏到图片中
 这个工具好不好，因人而异吧，可以把自己的一些文件存储到对应的图片中，使其更形象化。
 还阔以隐藏小电影哟！！你懂得 \*\^▽\^\*   
 
@@ -143,12 +143,12 @@ Anki 通过算法，它可以在相对合适的时间来告诉你复习什么比
 [软件下载链接](https://www.softpedia.com/get/Security/Security-Related/Jpg-FileBinder.shtml)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191206011018398.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
-### 16.Geek Uninstaller:  极速卸载工具
+## 16.Geek Uninstaller:  极速卸载工具
 简洁，轻便，快速，干净的一款卸载工具，还支持卸载 windows store app。
 
 [软件下载链接](https://geekuninstaller.com/)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191206012130447.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
-### 17.TextureUnpacker:  一个基于Unity的图集解析工具
+## 17.TextureUnpacker:  一个基于Unity的图集解析工具
 一个基于Unity的用于拆解texturepacker打出来的图集的工具，适合游戏开发者使用。
 
 [下载链接](https://blog.csdn.net/qq_28299311/article/details/103289299)
@@ -159,7 +159,7 @@ Anki 通过算法，它可以在相对合适的时间来告诉你复习什么比
 ---
 # 网站篇：
 
-# -------------------------------------------学习教程篇--------------------------------------------
+# ------------------------------学习教程篇-------------------------------
 
 ## <font color="red">bilibili哔哩哔哩
 这是一个神奇的网站，喜欢番剧的同学应该都知道。在这里上面不仅仅能看番剧，还能学习哟！
@@ -248,7 +248,7 @@ three.js是JavaScript编写的WebGL第三方库，提供了非常多的3D显示�
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211195010753.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
 
 
-# -------------------------------------------工具篇--------------------------------------------
+# ------------------------------工具篇-------------------------------
 
 ## <font color="red">Shader建模工具
 [http://www.iquilezles.org/apps/graphtoy/](http://www.iquilezles.org/apps/graphtoy/)
@@ -341,7 +341,7 @@ PDF、World、Excel相互转换，压缩等等功能。
 [https://shimo.im/welcome](https://shimo.im/welcome)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211203009722.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
 
-# -------------------------------------------美术资源篇--------------------------------------------
+# ------------------------------美术资源篇-------------------------------
 ## <font color="red">Softonic：优质软件下载网站 
 **Softonic** 在全球范围内已建立多个国家站点，包括西班牙、美国、英国、德国、法国、意大利、巴西、中国、波兰，收录各类 免费软件(freeware)、共享软件(shareware)、演示软件(demo) 等，总数超过十万款。
 简洁,干净,无广告!
@@ -388,7 +388,7 @@ PDF、World、Excel相互转换，压缩等等功能。
 [网站链接](http://thestocks.im/)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211171809517.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
 
-# -------------------------------------------文档资源篇--------------------------------------------
+# ------------------------------文档资源篇-------------------------------
 ## PPT免费模板
 [网站链接](http://www.ypppt.com/)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211170905594.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
@@ -396,7 +396,7 @@ PDF、World、Excel相互转换，压缩等等功能。
 [网站链接](http://www.hiwenku.com/)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211171112509.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
 
-# -------------------------------------------JS特效篇--------------------------------------------
+# ------------------------------JS特效篇-------------------------------
 
 ## <font color="red">CodePen: 知名的前端交流社区。
 
@@ -415,7 +415,7 @@ CodePen是一个完全免费的前端代码托管服务, 支持在线编辑,实�
 [网站地址](http://www.htmlsucai.com/76/57.html)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211163756847.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
 
-# -------------------------------------------其他资源篇--------------------------------------------
+# ------------------------------其他资源篇-------------------------------
 ## 免费字体资源
 [网站链接](http://www.zhaozi.cn/s/all/ttf/)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211170245192.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
